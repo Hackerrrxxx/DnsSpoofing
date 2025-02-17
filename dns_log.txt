@@ -1,0 +1,916 @@
+2025-02-03 22:02:50 - Checking domain: Cloudflare
+2025-02-03 22:02:50 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:02:50 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:02:50 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:02:50 - No DNS Spoofing Detected.
+2025-02-03 22:03:00 - Checking domain: Cloudflare
+2025-02-03 22:03:00 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:00 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:00 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:00 - No DNS Spoofing Detected.
+2025-02-03 22:03:10 - Checking domain: Cloudflare
+2025-02-03 22:03:10 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:10 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:10 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:10 - No DNS Spoofing Detected.
+2025-02-03 22:03:21 - Checking domain: Cloudflare
+2025-02-03 22:03:21 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:21 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:21 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:21 - No DNS Spoofing Detected.
+2025-02-03 22:03:31 - Checking domain: Cloudflare
+2025-02-03 22:03:31 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:31 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:31 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:31 - No DNS Spoofing Detected.
+2025-02-03 22:03:41 - Checking domain: Cloudflare
+2025-02-03 22:03:41 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:41 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:41 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:41 - No DNS Spoofing Detected.
+2025-02-03 22:03:51 - Checking domain: Cloudflare
+2025-02-03 22:03:51 - 8.8.8.8: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:51 - 1.1.1.1: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:51 - 208.67.222.222: The DNS query name does not exist: Cloudflare.
+2025-02-03 22:03:51 - No DNS Spoofing Detected.
+2025-02-03 22:04:48 - Checking domain: Google
+2025-02-03 22:04:48 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:48 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:48 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:48 - No DNS Spoofing Detected.
+2025-02-03 22:04:58 - Checking domain: Google
+2025-02-03 22:04:58 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:58 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:58 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:04:58 - No DNS Spoofing Detected.
+2025-02-03 22:05:08 - Checking domain: Google
+2025-02-03 22:05:08 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:08 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:08 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:08 - No DNS Spoofing Detected.
+2025-02-03 22:05:18 - Checking domain: Google
+2025-02-03 22:05:18 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:18 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:18 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:18 - No DNS Spoofing Detected.
+2025-02-03 22:05:29 - Checking domain: Google
+2025-02-03 22:05:29 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:29 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:29 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:29 - No DNS Spoofing Detected.
+2025-02-03 22:05:39 - Checking domain: Google
+2025-02-03 22:05:39 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:39 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:39 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:39 - No DNS Spoofing Detected.
+2025-02-03 22:05:49 - Checking domain: Google
+2025-02-03 22:05:49 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:49 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:49 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:49 - No DNS Spoofing Detected.
+2025-02-03 22:05:59 - Checking domain: Google
+2025-02-03 22:05:59 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:59 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:59 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:05:59 - No DNS Spoofing Detected.
+2025-02-03 22:06:09 - Checking domain: Google
+2025-02-03 22:06:09 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:09 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:09 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:09 - No DNS Spoofing Detected.
+2025-02-03 22:06:20 - Checking domain: Google
+2025-02-03 22:06:20 - 8.8.8.8: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:20 - 1.1.1.1: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:20 - 208.67.222.222: The DNS response does not contain an answer to the question: Google. IN A
+2025-02-03 22:06:20 - No DNS Spoofing Detected.
+2025-02-03 22:07:42 - Checking domain: google.com
+2025-02-03 22:07:42 - 8.8.8.8: ['142.251.175.102', '142.251.175.100', '142.251.175.139', '142.251.175.138', '142.251.175.113', '142.251.175.101']
+2025-02-03 22:07:42 - 1.1.1.1: ['142.251.175.102', '142.251.175.100', '142.251.175.139', '142.251.175.138', '142.251.175.113', '142.251.175.101']
+2025-02-03 22:07:42 - 208.67.222.222: ['142.251.175.102', '142.251.175.100', '142.251.175.139', '142.251.175.138', '142.251.175.113', '142.251.175.101']
+2025-02-03 22:15:19 - Checking domain: google.com
+2025-02-03 22:15:19 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:19 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:19 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:19 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:15:23 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de31f7260sm77798125ad.80 - gsmtp')
+2025-02-03 22:15:33 - Checking domain: google.com
+2025-02-03 22:15:33 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:33 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:33 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.100', '142.251.175.139']
+2025-02-03 22:15:33 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:15:37 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe631be3csm8693704b3a.7 - gsmtp')
+2025-02-03 22:15:47 - Checking domain: google.com
+2025-02-03 22:15:47 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:15:47 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:15:47 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:15:47 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:15:50 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de32ed9c1sm77978505ad.153 - gsmtp')
+2025-02-03 22:16:00 - Checking domain: google.com
+2025-02-03 22:16:00 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:00 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:00 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:00 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:16:04 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe69ba45asm8697575b3a.89 - gsmtp')
+2025-02-03 22:16:14 - Checking domain: google.com
+2025-02-03 22:16:14 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:14 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:14 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:14 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:16:18 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe631be3csm8694575b3a.7 - gsmtp')
+2025-02-03 22:16:28 - Checking domain: google.com
+2025-02-03 22:16:28 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:28 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:28 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:28 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:16:32 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe631beb1sm8636852b3a.5 - gsmtp')
+2025-02-03 22:16:42 - Checking domain: google.com
+2025-02-03 22:16:42 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:42 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:42 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:16:45 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de31ee557sm77544235ad.1 - gsmtp')
+2025-02-03 22:16:55 - Checking domain: google.com
+2025-02-03 22:16:55 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:55 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:55 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:16:55 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:16:59 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-acec04777e8sm8268090a12.59 - gsmtp')
+2025-02-03 22:17:09 - Checking domain: google.com
+2025-02-03 22:17:09 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:09 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:09 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:09 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:17:12 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f848a99a50sm9240899a91.39 - gsmtp')
+2025-02-03 22:17:22 - Checking domain: google.com
+2025-02-03 22:17:22 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:22 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:22 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:22 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:17:25 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de31ee04dsm79232805ad.10 - gsmtp')
+2025-02-03 22:17:35 - Checking domain: google.com
+2025-02-03 22:17:35 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:35 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:35 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:35 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:17:39 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de331f33asm77863395ad.231 - gsmtp')
+2025-02-03 22:17:49 - Checking domain: google.com
+2025-02-03 22:17:49 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:49 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:49 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:17:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:17:52 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f83bd0cd58sm11364572a91.25 - gsmtp')
+2025-02-03 22:18:02 - Checking domain: google.com
+2025-02-03 22:18:02 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:02 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:02 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:02 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:18:05 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de32ed647sm77903855ad.133 - gsmtp')
+2025-02-03 22:18:15 - Checking domain: google.com
+2025-02-03 22:18:15 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:15 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:15 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:15 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:18:19 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f83bb9bf39sm11539328a91.0 - gsmtp')
+2025-02-03 22:18:29 - Checking domain: google.com
+2025-02-03 22:18:29 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:29 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:29 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:18:32 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de3303d71sm79165425ad.190 - gsmtp')
+2025-02-03 22:18:42 - Checking domain: google.com
+2025-02-03 22:18:42 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:42 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:42 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:18:45 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de3320256sm78350845ad.244 - gsmtp')
+2025-02-03 22:18:55 - Checking domain: google.com
+2025-02-03 22:18:55 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:55 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:55 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:18:55 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:18:58 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe6424f5dsm8640591b3a.42 - gsmtp')
+2025-02-03 22:19:08 - Checking domain: google.com
+2025-02-03 22:19:08 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:08 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:08 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:08 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:19:12 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe64276d8sm8894458b3a.55 - gsmtp')
+2025-02-03 22:19:22 - Checking domain: google.com
+2025-02-03 22:19:22 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:22 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:22 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:22 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:19:25 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de31f6f74sm78360605ad.67 - gsmtp')
+2025-02-03 22:19:35 - Checking domain: google.com
+2025-02-03 22:19:35 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:35 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:35 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:35 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:19:38 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f83bc97d3dsm11611720a91.7 - gsmtp')
+2025-02-03 22:19:48 - Checking domain: google.com
+2025-02-03 22:19:48 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:48 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:48 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:19:48 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:19:51 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de32ef9c2sm79078135ad.114 - gsmtp')
+2025-02-03 22:20:01 - Checking domain: google.com
+2025-02-03 22:20:01 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:01 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:01 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:01 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:20:03 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de32ea495sm78445095ad.126 - gsmtp')
+2025-02-03 22:20:13 - Checking domain: google.com
+2025-02-03 22:20:13 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:13 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:13 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:13 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:20:18 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe69bba15sm8854050b3a.101 - gsmtp')
+2025-02-03 22:20:28 - Checking domain: google.com
+2025-02-03 22:20:28 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:28 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:28 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:28 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:20:31 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe6a1a958sm8981761b3a.172 - gsmtp')
+2025-02-03 22:20:41 - Checking domain: google.com
+2025-02-03 22:20:41 - 8.8.8.8: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:41 - 1.1.1.1: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:41 - 208.67.222.222: ['142.251.175.101', '142.251.175.138', '142.251.175.113', '142.251.175.139', '142.251.175.100', '142.251.175.102']
+2025-02-03 22:20:41 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:20:44 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f83bcd1605sm11743508a91.18 - gsmtp')
+2025-02-03 22:21:59 - Checking domain: google.com
+2025-02-03 22:21:59 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:21:59 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:21:59 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:21:59 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:22:02 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f84897a5ddsm10277969a91.9 - gsmtp')
+2025-02-03 22:22:12 - Checking domain: google.com
+2025-02-03 22:22:12 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:12 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:12 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:12 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:22:15 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-72fe69ba418sm8901622b3a.105 - gsmtp')
+2025-02-03 22:22:25 - Checking domain: google.com
+2025-02-03 22:22:25 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:25 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:25 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:25 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:22:31 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de331f33asm77917495ad.231 - gsmtp')
+2025-02-03 22:22:41 - Checking domain: google.com
+2025-02-03 22:22:41 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:41 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:41 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:41 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:22:44 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f8489d65a2sm10214053a91.29 - gsmtp')
+2025-02-03 22:22:54 - Checking domain: google.com
+2025-02-03 22:22:54 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:54 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:54 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:22:54 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:22:57 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-21de31f80c2sm79495785ad.72 - gsmtp')
+2025-02-03 22:23:07 - Checking domain: google.com
+2025-02-03 22:23:07 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:07 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:07 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:07 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:23:11 - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-2f830a66a23sm8639576a91.1 - gsmtp')
+2025-02-03 22:23:21 - Checking domain: google.com
+2025-02-03 22:23:21 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:21 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:21 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:23:21 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:24:44 - Checking domain: google.com
+2025-02-03 22:24:44 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:44 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:44 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:44 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:24:49 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebddbb0a0sm8339198a12.2 - gsmtp')
+2025-02-03 22:24:59 - Checking domain: google.com
+2025-02-03 22:24:59 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:59 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:59 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:24:59 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:25:06 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba468sm8615238b3a.117 - gsmtp')
+2025-02-03 22:25:16 - Checking domain: google.com
+2025-02-03 22:25:16 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:16 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:16 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:16 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:25:19 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31ee6bdsm79428305ad.21 - gsmtp')
+2025-02-03 22:25:29 - Checking domain: google.com
+2025-02-03 22:25:29 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:29 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:29 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:25:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bd0cf6dsm12757877a91.29 - gsmtp')
+2025-02-03 22:25:42 - Checking domain: google.com
+2025-02-03 22:25:42 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:42 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:42 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.102', '142.251.175.139']
+2025-02-03 22:25:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:25:45 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe6a1cb70sm8474858b3a.180 - gsmtp')
+2025-02-03 22:25:55 - Checking domain: google.com
+2025-02-03 22:25:55 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:25:55 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:25:55 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:25:55 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:25:59 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebddbb149sm8261327a12.1 - gsmtp')
+2025-02-03 22:26:09 - Checking domain: google.com
+2025-02-03 22:26:09 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:09 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:09 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:09 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:26:11 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3300703sm78423705ad.185 - gsmtp')
+2025-02-03 22:26:21 - Checking domain: google.com
+2025-02-03 22:26:21 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:21 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:21 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:21 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:26:25 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe631c0f1sm8604265b3a.8 - gsmtp')
+2025-02-03 22:26:35 - Checking domain: google.com
+2025-02-03 22:26:35 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:35 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:35 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:35 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:26:39 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a997fasm9070108a91.33 - gsmtp')
+2025-02-03 22:26:49 - Checking domain: google.com
+2025-02-03 22:26:49 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:49 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:49 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:26:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:26:52 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba380sm8593905b3a.118 - gsmtp')
+2025-02-03 22:27:02 - Checking domain: google.com
+2025-02-03 22:27:02 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:02 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:02 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:02 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:27:05 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de33205b4sm79074355ad.245 - gsmtp')
+2025-02-03 22:27:15 - Checking domain: google.com
+2025-02-03 22:27:15 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:15 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:15 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:15 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:27:18 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acec0a7d3eesm8172167a12.70 - gsmtp')
+2025-02-03 22:27:28 - Checking domain: google.com
+2025-02-03 22:27:28 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:28 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:28 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:28 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:27:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bd0c339sm11547029a91.28 - gsmtp')
+2025-02-03 22:27:42 - Checking domain: google.com
+2025-02-03 22:27:42 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:42 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:42 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:27:46 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f5c72sm79165275ad.66 - gsmtp')
+2025-02-03 22:27:56 - Checking domain: google.com
+2025-02-03 22:27:56 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:56 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:56 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:27:56 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:28:00 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3303f8csm78551225ad.206 - gsmtp')
+2025-02-03 22:28:10 - Checking domain: google.com
+2025-02-03 22:28:10 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:10 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:10 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:10 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:28:13 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69cf042sm8644448b3a.152 - gsmtp')
+2025-02-03 22:28:23 - Checking domain: google.com
+2025-02-03 22:28:23 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:23 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:23 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:23 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:28:26 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe631bf13sm8691393b3a.32 - gsmtp')
+2025-02-03 22:28:36 - Checking domain: google.com
+2025-02-03 22:28:36 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:36 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:36 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:36 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:28:39 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32eb9fdsm78027395ad.119 - gsmtp')
+2025-02-03 22:28:49 - Checking domain: google.com
+2025-02-03 22:28:49 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:49 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:49 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:28:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:28:52 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69cdd20sm8974445b3a.135 - gsmtp')
+2025-02-03 22:29:02 - Checking domain: google.com
+2025-02-03 22:29:02 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:02 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:02 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:02 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:29:04 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3320ec8sm78593215ad.248 - gsmtp')
+2025-02-03 22:29:15 - Checking domain: google.com
+2025-02-03 22:29:15 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:15 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:15 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:15 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:29:17 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31ee1efsm79001165ad.28 - gsmtp')
+2025-02-03 22:29:27 - Checking domain: google.com
+2025-02-03 22:29:27 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:27 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:27 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:27 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:29:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea5bbsm79372375ad.150 - gsmtp')
+2025-02-03 22:29:42 - Checking domain: google.com
+2025-02-03 22:29:42 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:42 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:42 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:29:46 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba3d9sm8540342b3a.120 - gsmtp')
+2025-02-03 22:29:56 - Checking domain: google.com
+2025-02-03 22:29:56 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:56 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:56 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:29:56 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:29:59 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acec0a66a64sm6958994a12.74 - gsmtp')
+2025-02-03 22:30:09 - Checking domain: google.com
+2025-02-03 22:30:09 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:09 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:09 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:09 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:30:13 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f84897a504sm9264824a91.7 - gsmtp')
+2025-02-03 22:30:23 - Checking domain: google.com
+2025-02-03 22:30:23 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:23 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:23 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:23 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:30:26 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe631c0f1sm8608725b3a.8 - gsmtp')
+2025-02-03 22:30:36 - Checking domain: google.com
+2025-02-03 22:30:36 - 8.8.8.8: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:36 - 1.1.1.1: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:36 - 208.67.222.222: ['142.251.175.139', '142.251.175.100', '142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138']
+2025-02-03 22:30:36 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:30:40 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea801sm78657845ad.121 - gsmtp')
+2025-02-03 22:30:50 - Checking domain: google.com
+2025-02-03 22:30:50 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:30:50 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:30:50 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:30:50 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:30:53 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31ee0a7sm79918015ad.18 - gsmtp')
+2025-02-03 22:31:03 - Checking domain: google.com
+2025-02-03 22:31:03 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:03 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:03 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:03 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:31:06 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bf9497dsm11543670a91.35 - gsmtp')
+2025-02-03 22:31:16 - Checking domain: google.com
+2025-02-03 22:31:16 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:16 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:16 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:16 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:31:19 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea5bbsm79394035ad.150 - gsmtp')
+2025-02-03 22:31:29 - Checking domain: google.com
+2025-02-03 22:31:29 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:29 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:29 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:31:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebe856835sm6940813a12.33 - gsmtp')
+2025-02-03 22:31:42 - Checking domain: google.com
+2025-02-03 22:31:42 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:42 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:42 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:31:45 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a99a50sm9258538a91.39 - gsmtp')
+2025-02-03 22:31:55 - Checking domain: google.com
+2025-02-03 22:31:55 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:55 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:55 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:31:55 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:31:58 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f7020sm78191325ad.76 - gsmtp')
+2025-02-03 22:32:08 - Checking domain: google.com
+2025-02-03 22:32:08 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:08 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:08 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:08 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:32:12 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bf93e97sm12721945a91.31 - gsmtp')
+2025-02-03 22:32:22 - Checking domain: google.com
+2025-02-03 22:32:22 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:22 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:22 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:22 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:32:27 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba353sm8553611b3a.112 - gsmtp')
+2025-02-03 22:32:37 - Checking domain: google.com
+2025-02-03 22:32:37 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:37 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:37 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:37 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:32:42 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3306012sm78555975ad.179 - gsmtp')
+2025-02-03 22:32:52 - Checking domain: google.com
+2025-02-03 22:32:52 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:52 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:52 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:32:52 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:32:55 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f7768sm79105925ad.96 - gsmtp')
+2025-02-03 22:33:05 - Checking domain: google.com
+2025-02-03 22:33:05 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:05 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:05 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:05 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:33:08 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3320fc3sm78061145ad.251 - gsmtp')
+2025-02-03 22:33:18 - Checking domain: google.com
+2025-02-03 22:33:18 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:18 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:18 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:18 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:33:21 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bf9499fsm11503649a91.33 - gsmtp')
+2025-02-03 22:33:31 - Checking domain: google.com
+2025-02-03 22:33:31 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:31 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:31 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:31 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:33:33 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba2casm8976567b3a.92 - gsmtp')
+2025-02-03 22:33:43 - Checking domain: google.com
+2025-02-03 22:33:43 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:43 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:43 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:43 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:33:47 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f8489d3982sm10213247a91.24 - gsmtp')
+2025-02-03 22:33:57 - Checking domain: google.com
+2025-02-03 22:33:57 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:57 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:57 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:33:57 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:34:01 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f5f4esm79666715ad.69 - gsmtp')
+2025-02-03 22:34:11 - Checking domain: google.com
+2025-02-03 22:34:11 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:11 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:11 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:11 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:34:15 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe653ab2fsm8524177b3a.79 - gsmtp')
+2025-02-03 22:34:25 - Checking domain: google.com
+2025-02-03 22:34:25 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:25 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:25 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:25 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:34:28 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ce9a3sm8937588b3a.145 - gsmtp')
+2025-02-03 22:34:38 - Checking domain: google.com
+2025-02-03 22:34:38 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:38 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:38 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:38 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:34:41 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe64292b2sm8884753b3a.62 - gsmtp')
+2025-02-03 22:34:51 - Checking domain: google.com
+2025-02-03 22:34:51 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:51 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:51 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:34:51 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:34:54 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebe856840sm7037208a12.41 - gsmtp')
+2025-02-03 22:35:04 - Checking domain: google.com
+2025-02-03 22:35:04 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:04 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:04 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:04 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:35:07 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3303c9esm78778445ad.198 - gsmtp')
+2025-02-03 22:35:17 - Checking domain: google.com
+2025-02-03 22:35:17 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:17 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:17 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:17 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:35:21 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebddbb0d4sm8219505a12.10 - gsmtp')
+2025-02-03 22:35:31 - Checking domain: google.com
+2025-02-03 22:35:31 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:31 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:31 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:31 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:35:34 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bc97f29sm12771984a91.6 - gsmtp')
+2025-02-03 22:35:44 - Checking domain: google.com
+2025-02-03 22:35:44 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:44 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:44 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.138', '142.251.175.139', '142.251.175.100']
+2025-02-03 22:35:44 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:35:47 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f8489ae309sm9191667a91.14 - gsmtp')
+2025-02-03 22:35:57 - Checking domain: google.com
+2025-02-03 22:35:57 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:35:57 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:35:57 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:35:57 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:36:00 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea5bbsm79445435ad.150 - gsmtp')
+2025-02-03 22:36:10 - Checking domain: google.com
+2025-02-03 22:36:10 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:10 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:10 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:10 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:36:14 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-ad11841ec59sm4840406a12.57 - gsmtp')
+2025-02-03 22:36:24 - Checking domain: google.com
+2025-02-03 22:36:24 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:24 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:24 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:24 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:36:27 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a997fasm9082164a91.33 - gsmtp')
+2025-02-03 22:36:37 - Checking domain: google.com
+2025-02-03 22:36:37 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:37 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:37 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:37 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:36:42 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba3c1sm8978841b3a.108 - gsmtp')
+2025-02-03 22:36:52 - Checking domain: google.com
+2025-02-03 22:36:52 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:52 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:52 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:36:52 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:36:55 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba380sm8605382b3a.118 - gsmtp')
+2025-02-03 22:37:05 - Checking domain: google.com
+2025-02-03 22:37:05 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:05 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:05 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:05 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:37:08 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de33032f1sm78679335ad.182 - gsmtp')
+2025-02-03 22:37:18 - Checking domain: google.com
+2025-02-03 22:37:18 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:18 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:18 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:18 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:37:22 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69cf042sm8654732b3a.152 - gsmtp')
+2025-02-03 22:37:32 - Checking domain: google.com
+2025-02-03 22:37:32 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:32 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:32 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:32 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:37:35 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848976d1fsm10264197a91.3 - gsmtp')
+2025-02-03 22:37:45 - Checking domain: google.com
+2025-02-03 22:37:45 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:45 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:45 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:45 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:37:49 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de3303c9esm78806685ad.198 - gsmtp')
+2025-02-03 22:37:59 - Checking domain: google.com
+2025-02-03 22:37:59 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:59 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:59 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:37:59 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:38:02 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de331efafsm79157615ad.217 - gsmtp')
+2025-02-03 22:38:12 - Checking domain: google.com
+2025-02-03 22:38:12 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:12 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:12 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:12 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:38:18 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe6424fd0sm8602624b3a.45 - gsmtp')
+2025-02-03 22:38:28 - Checking domain: google.com
+2025-02-03 22:38:28 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:28 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:28 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:28 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:38:31 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebe856915sm8161448a12.38 - gsmtp')
+2025-02-03 22:38:41 - Checking domain: google.com
+2025-02-03 22:38:41 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:41 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:41 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:41 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:38:46 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ce054sm8963614b3a.132 - gsmtp')
+2025-02-03 22:38:56 - Checking domain: google.com
+2025-02-03 22:38:56 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:56 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:56 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:38:56 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:38:59 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acec0971315sm6875991a12.65 - gsmtp')
+2025-02-03 22:39:09 - Checking domain: google.com
+2025-02-03 22:39:09 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:09 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:09 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:09 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:39:12 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f7248sm78035845ad.91 - gsmtp')
+2025-02-03 22:39:22 - Checking domain: google.com
+2025-02-03 22:39:22 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:22 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:22 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:22 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:39:27 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebe384685sm8190244a12.17 - gsmtp')
+2025-02-03 22:39:37 - Checking domain: google.com
+2025-02-03 22:39:37 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:37 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:37 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:37 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:39:40 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea7cbsm78783255ad.151 - gsmtp')
+2025-02-03 22:39:50 - Checking domain: google.com
+2025-02-03 22:39:50 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:50 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:50 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:39:50 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:39:53 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe631bed4sm9017958b3a.10 - gsmtp')
+2025-02-03 22:40:03 - Checking domain: google.com
+2025-02-03 22:40:03 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:03 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:03 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:03 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:40:07 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a9f25bsm9244076a91.37 - gsmtp')
+2025-02-03 22:40:17 - Checking domain: google.com
+2025-02-03 22:40:17 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:17 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:17 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:17 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:40:20 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f6b37sm79056335ad.65 - gsmtp')
+2025-02-03 22:40:30 - Checking domain: google.com
+2025-02-03 22:40:30 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:30 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:30 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:30 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:40:33 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32eba08sm78252565ad.131 - gsmtp')
+2025-02-03 22:40:44 - Checking domain: google.com
+2025-02-03 22:40:44 - 8.8.8.8: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:44 - 1.1.1.1: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:44 - 208.67.222.222: ['142.251.175.101', '142.251.175.102', '142.251.175.113', '142.251.175.100', '142.251.175.138', '142.251.175.139']
+2025-02-03 22:40:44 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:40:47 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe6a1cb70sm8491371b3a.180 - gsmtp')
+2025-02-03 22:40:57 - Checking domain: google.com
+2025-02-03 22:40:57 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:40:57 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:40:57 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:40:57 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:41:00 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea801sm78770465ad.121 - gsmtp')
+2025-02-03 22:41:10 - Checking domain: google.com
+2025-02-03 22:41:10 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:10 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:10 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:10 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:41:13 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba401sm8635227b3a.88 - gsmtp')
+2025-02-03 22:41:23 - Checking domain: google.com
+2025-02-03 22:41:23 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:23 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:23 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:23 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:41:26 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebddbb13dsm8297241a12.4 - gsmtp')
+2025-02-03 22:41:36 - Checking domain: google.com
+2025-02-03 22:41:36 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:36 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:36 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:36 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:41:40 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe6a18ae1sm8661144b3a.163 - gsmtp')
+2025-02-03 22:41:50 - Checking domain: google.com
+2025-02-03 22:41:50 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:50 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:50 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:41:50 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:41:53 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32f44a9sm79631085ad.143 - gsmtp')
+2025-02-03 22:42:03 - Checking domain: google.com
+2025-02-03 22:42:03 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:03 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:03 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:03 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:42:06 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea5bbsm79512075ad.150 - gsmtp')
+2025-02-03 22:42:16 - Checking domain: google.com
+2025-02-03 22:42:16 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:16 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:16 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:16 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:42:19 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f704esm79104585ad.85 - gsmtp')
+2025-02-03 22:42:29 - Checking domain: google.com
+2025-02-03 22:42:29 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:29 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:29 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:42:33 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31ee26dsm79680325ad.38 - gsmtp')
+2025-02-03 22:42:43 - Checking domain: google.com
+2025-02-03 22:42:43 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:43 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:43 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:43 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:42:47 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a997fasm9089200a91.33 - gsmtp')
+2025-02-03 22:42:57 - Checking domain: google.com
+2025-02-03 22:42:57 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:57 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:57 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:42:57 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:43:01 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31fcddbsm78846825ad.105 - gsmtp')
+2025-02-03 22:43:11 - Checking domain: google.com
+2025-02-03 22:43:11 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:11 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:11 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:11 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:43:14 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f848a99a45sm9274011a91.38 - gsmtp')
+2025-02-03 22:43:24 - Checking domain: google.com
+2025-02-03 22:43:24 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:24 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:24 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:24 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:43:26 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bfbfe8dsm11537527a91.48 - gsmtp')
+2025-02-03 22:43:37 - Checking domain: google.com
+2025-02-03 22:43:37 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:37 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:37 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:37 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:43:39 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ceb1csm8537844b3a.151 - gsmtp')
+2025-02-03 22:43:49 - Checking domain: google.com
+2025-02-03 22:43:49 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:49 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:49 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:43:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:43:53 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de330386fsm79261315ad.192 - gsmtp')
+2025-02-03 22:44:03 - Checking domain: google.com
+2025-02-03 22:44:03 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:03 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:03 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:03 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:44:06 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32efea6sm78594685ad.134 - gsmtp')
+2025-02-03 22:44:16 - Checking domain: google.com
+2025-02-03 22:44:16 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:16 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:16 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:16 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:44:19 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de331fa4csm78545565ad.232 - gsmtp')
+2025-02-03 22:44:29 - Checking domain: google.com
+2025-02-03 22:44:29 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:29 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:29 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:44:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de33206besm78559745ad.241 - gsmtp')
+2025-02-03 22:44:42 - Checking domain: google.com
+2025-02-03 22:44:42 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:42 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:42 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:44:46 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe6a1cb5asm8902129b3a.174 - gsmtp')
+2025-02-03 22:44:56 - Checking domain: google.com
+2025-02-03 22:44:56 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:56 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:56 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:44:56 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:44:59 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bf9499fsm11516994a91.33 - gsmtp')
+2025-02-03 22:45:09 - Checking domain: google.com
+2025-02-03 22:45:09 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:09 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:09 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:09 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:45:13 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bc97e7csm12798270a91.9 - gsmtp')
+2025-02-03 22:45:23 - Checking domain: google.com
+2025-02-03 22:45:23 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:23 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:23 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:23 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:45:26 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de331fa4csm78558515ad.232 - gsmtp')
+2025-02-03 22:45:36 - Checking domain: google.com
+2025-02-03 22:45:36 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:36 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:36 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:36 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:45:39 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f8004sm79701655ad.74 - gsmtp')
+2025-02-03 22:45:49 - Checking domain: google.com
+2025-02-03 22:45:49 - 8.8.8.8: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:49 - 1.1.1.1: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:49 - 208.67.222.222: ['142.251.175.100', '142.251.175.101', '142.251.175.139', '142.251.175.138', '142.251.175.102', '142.251.175.113']
+2025-02-03 22:45:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:45:53 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32ea60bsm77736145ad.120 - gsmtp')
+2025-02-03 22:46:03 - Checking domain: google.com
+2025-02-03 22:46:03 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:03 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:03 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:03 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:46:06 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebdeafb6esm7057078a12.9 - gsmtp')
+2025-02-03 22:46:16 - Checking domain: google.com
+2025-02-03 22:46:16 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:16 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:16 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:16 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:46:19 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-acebe856951sm8105951a12.34 - gsmtp')
+2025-02-03 22:46:29 - Checking domain: google.com
+2025-02-03 22:46:29 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:29 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:29 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:29 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:46:32 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f71aesm79944005ad.79 - gsmtp')
+2025-02-03 22:46:42 - Checking domain: google.com
+2025-02-03 22:46:42 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:42 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:42 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:42 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:46:45 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2f83bd0c339sm11570079a91.28 - gsmtp')
+2025-02-03 22:46:55 - Checking domain: google.com
+2025-02-03 22:46:55 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:55 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:55 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:46:55 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:46:58 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31fcdd0sm79873415ad.103 - gsmtp')
+2025-02-03 22:47:08 - Checking domain: google.com
+2025-02-03 22:47:08 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:08 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:08 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:08 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:47:12 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de33006b9sm78631785ad.170 - gsmtp')
+2025-02-03 22:47:22 - Checking domain: google.com
+2025-02-03 22:47:22 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:22 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:22 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:22 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:47:25 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f78b1sm79072045ad.95 - gsmtp')
+2025-02-03 22:47:35 - Checking domain: google.com
+2025-02-03 22:47:35 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:35 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:35 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:35 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:47:39 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de31f81d5sm79062955ad.101 - gsmtp')
+2025-02-03 22:47:49 - Checking domain: google.com
+2025-02-03 22:47:49 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:49 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:49 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:47:49 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:47:52 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe64275c4sm9065486b3a.61 - gsmtp')
+2025-02-03 22:48:02 - Checking domain: google.com
+2025-02-03 22:48:02 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:02 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:02 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:02 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:48:05 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-21de32eb9f1sm78373015ad.115 - gsmtp')
+2025-02-03 22:48:15 - Checking domain: google.com
+2025-02-03 22:48:15 - 8.8.8.8: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:15 - 1.1.1.1: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:15 - 208.67.222.222: ['142.251.175.102', '142.251.175.139', '142.251.175.101', '142.251.175.113', '142.251.175.138', '142.251.175.100']
+2025-02-03 22:48:15 - ⚠️ Potential DNS Spoofing Detected for google.com!
+2025-02-03 22:48:20 - Error sending email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-72fe69ba45asm8734580b3a.89 - gsmtp')
